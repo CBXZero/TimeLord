@@ -2,7 +2,7 @@
   "games": {
     "AG": {
       "name": "Aether Gazer",
-      "timezone": "Etc/GMT-07",
+      "timezone": "Etc/GMT+07",
       "dayReset": "05:00"
     },
     "BA": {
